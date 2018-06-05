@@ -1,0 +1,23 @@
+1) Resultados das Eleições 
+
+Link: http://dados.gov.br/dataset/resultado-das-eleicoes
+
+Contém os candidatos eleitos para prefeitos e vereadores e todos os municípios, bem como os deferidos, indeferidos, suplentes, partido etc.
+
+2) Perfil dos eleitores
+
+Link: http://dados.gov.br/dataset/perfil-do-eleitorado-em-cada-eleicao
+
+Contém a faixa etária e escolaridade dos eleitores de todos os municípios.
+
+3) Perfil dos candidatos
+
+http://dados.gov.br/dataset/perfil-dos-candidatos-em-cada-eleicao
+
+Contém idade, escolaridade, gasto com a campanha e, se viável, podemos usar também a lista de bens dos candidatos para ver se os mais ricos se elegeram.
+
+4) PIB dos municípios
+
+http://dados.gov.br/dataset/produto-interno-bruto-pib
+
+Contém o PIB dos municípios calculado pelo IBGE, para verificarmos as cidades mais ricas e mais pobres.
